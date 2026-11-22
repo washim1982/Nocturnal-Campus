@@ -1,0 +1,6 @@
+{
+  "name": "Nocturnal Campus",
+  "description": "Explore an empty three-story modern school at night with WASD movement, walkable stairs, classrooms, a science lab, a library, a handheld flashlight, flickering hall lights, and eerie ambient audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
